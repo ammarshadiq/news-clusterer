@@ -1,0 +1,797 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" resourceKey="Form.title"/>
+    <Property name="modal" type="boolean" value="true"/>
+    <Property name="modalityType" type="java.awt.Dialog$ModalityType" editor="org.netbeans.modules.form.editors.EnumEditor">
+      <Value id="TOOLKIT_MODAL"/>
+    </Property>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="filterURLOnClusteringCheckBox" min="-2" max="-2" attributes="0"/>
+                          <Component id="indexFileLabel" alignment="1" pref="187" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="indexFileTextField" alignment="0" pref="396" max="32767" attributes="1"/>
+                          <Component id="filterURLFileTextField" alignment="0" pref="396" max="32767" attributes="1"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="indexFileBrowseButton" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="filterURLFileBrowseButton" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="indexFileTitleLabel" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="indexFileSeparator" pref="578" max="32767" attributes="1"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="clusteringMethodLabel" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Component id="clusteringMethodSeparator" pref="524" max="32767" attributes="1"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="ManualClusterFileLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="clusterMergingMethodLabel" alignment="1" min="-2" max="-2" attributes="2"/>
+                      </Group>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="clusterMergingMethodComboBox" min="-2" pref="278" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="clusterMergingLogBaseLabel" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="ManualClusterFileTextField" min="-2" pref="354" max="-2" attributes="1"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="clusterMergingLogBaseComboBox" min="-2" max="-2" attributes="0"/>
+                          <Component id="ManualClusterFileBrowseButton" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="phrasesExtractorLabel" min="-2" max="-2" attributes="1"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="phrasesExtractorSeparator" pref="529" max="32767" attributes="1"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="frequentPhrasesFilterLabel" alignment="1" min="-2" pref="160" max="-2" attributes="1"/>
+                                  <Component id="phraseExtractorLabel" alignment="1" min="-2" pref="183" max="-2" attributes="1"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="phraseExtractorComboBox" min="-2" max="-2" attributes="1"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="phraseExtractorConfigureButton" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="fpfDocLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="12" pref="12" max="12" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Group type="102" alignment="0" attributes="1">
+                                              <Component id="fpfDocMaxLabel" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="fpfNumDocMaxSpinner" linkSize="5" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="fpfDocMinLabel" linkSize="2" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="fpfNumDocMinSpinner" linkSize="5" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="fpfNumDocMinLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="fpfPersDocMinSpinner" linkSize="5" min="-2" pref="57" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="fpfPersDocMinLabel" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="1">
+                                              <Component id="fpfNumDocMaxLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="fpfPersDocMaxSpinner" linkSize="5" min="-2" pref="57" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="fpfPersDocMaxLabel" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="discardStopWordsOnClusteringCheckBox" min="-2" max="-2" attributes="0"/>
+                                          <Component id="numberOfClusterLabel" alignment="1" min="-2" max="-2" attributes="2"/>
+                                          <Component id="dendogramCuttingTresholdLabel" alignment="1" min="-2" max="-2" attributes="2"/>
+                                      </Group>
+                                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="numberOfClusterSpinner" min="-2" pref="58" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="stopWordFileLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="stopWordFileTextField" min="-2" pref="271" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="stopWordFileBrowseButton" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="192" max="-2" attributes="0"/>
+                                      <Component id="dendogramCuttingTresholdSlider" pref="365" max="32767" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="dendogramCuttingTresholdSpinner" min="-2" pref="68" max="-2" attributes="0"/>
+                                      <EmptySpace pref="1" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="okCancelApplyButtonSeparator" alignment="0" pref="656" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="labelingMethodLabel" min="-2" pref="183" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Component id="labelingMethodComboBox" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="labelingLogTypeLabel" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="labelingLogBaseComboBox" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="labelingScalingMethodLabel" min="-2" pref="183" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Component id="labelingScalingMethodComboBox" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="ClusterLabelingMethodPoissonLabel" min="-2" pref="183" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Component id="ClusterLabelingMethodPoissonSpinner" min="-2" pref="55" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="clusterLabelingMethodLabel" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="clusterLabelingMethodSeparator" pref="486" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="applyButton" linkSize="1" min="-2" pref="55" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cancelButton" linkSize="1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="okButton" linkSize="1" min="-2" pref="55" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="indexFileTitleLabel" min="-2" pref="22" max="-2" attributes="1"/>
+                  <Component id="indexFileSeparator" min="-2" pref="14" max="-2" attributes="1"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="indexFileLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="indexFileTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="indexFileBrowseButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="filterURLFileBrowseButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="filterURLOnClusteringCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="filterURLFileTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="clusteringMethodLabel" min="-2" pref="22" max="-2" attributes="1"/>
+                  <Component id="clusteringMethodSeparator" min="-2" pref="14" max="-2" attributes="1"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clusterMergingMethodLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusterMergingMethodComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusterMergingLogBaseLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusterMergingLogBaseComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ManualClusterFileLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ManualClusterFileTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ManualClusterFileBrowseButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="stopWordFileTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="stopWordFileBrowseButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="discardStopWordsOnClusteringCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="stopWordFileLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="numberOfClusterLabel" alignment="3" max="32767" attributes="0"/>
+                  <Component id="numberOfClusterSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="dendogramCuttingTresholdSpinner" min="-2" max="-2" attributes="0"/>
+                  <Component id="dendogramCuttingTresholdSlider" min="-2" max="-2" attributes="1"/>
+                  <Component id="dendogramCuttingTresholdLabel" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="phrasesExtractorLabel" min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="phrasesExtractorSeparator" min="-2" pref="12" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="phraseExtractorLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="phraseExtractorComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="phraseExtractorConfigureButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="frequentPhrasesFilterLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfDocLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="fpfDocMinLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfNumDocMinSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfNumDocMinLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfPersDocMinSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfPersDocMinLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="fpfDocMaxLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfNumDocMaxSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfNumDocMaxLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfPersDocMaxSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fpfPersDocMaxLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="clusterLabelingMethodLabel" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusterLabelingMethodSeparator" min="-2" pref="10" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="labelingMethodLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="labelingMethodComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="labelingLogTypeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="labelingLogBaseComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="labelingScalingMethodLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="labelingScalingMethodComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ClusterLabelingMethodPoissonLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ClusterLabelingMethodPoissonSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="okCancelApplyButtonSeparator" min="-2" pref="10" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="okButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cancelButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="applyButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="dendogramCuttingTresholdLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="dendogramCuttingTresholdLabel.text"/>
+        <Property name="name" type="java.lang.String" value="dendogramCuttingTresholdLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="dendogramCuttingTresholdSpinner">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="0.175" maximum="1.0" minimum="0.0" numberType="java.lang.Double" stepSize="0.0010" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="dendogramCuttingTresholdSpinner" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="dendogramCuttingTresholdSpinnerStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelingScalingMethodLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="labelingScalingMethodLabel.text"/>
+        <Property name="name" type="java.lang.String" value="labelingScalingMethodLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="applyButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="applyButton.text"/>
+        <Property name="name" type="java.lang.String" value="applyButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="applyButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="labelingScalingMethodComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="--None--"/>
+            <StringItem index="1" value="Number of Words Poisson Scaling"/>
+          </StringArray>
+        </Property>
+        <Property name="name" type="java.lang.String" value="labelingScalingMethodComboBox" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="labelingScalingMethodComboBoxActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="phraseExtractorLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="phraseExtractorLabel.text"/>
+        <Property name="name" type="java.lang.String" value="phraseExtractorLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="phraseExtractorComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="Forward Sequential"/>
+            <StringItem index="1" value="Simple Extractor"/>
+          </StringArray>
+        </Property>
+        <Property name="name" type="java.lang.String" value="phraseExtractorComboBox" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="phraseExtractorComboBoxActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="okButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="okButton.text"/>
+        <Property name="name" type="java.lang.String" value="okButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="okButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="cancelButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="cancelButton.text"/>
+        <Property name="name" type="java.lang.String" value="cancelButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="clusterLabelingMethodSeparator">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="clusterLabelingMethodSeparator" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="phrasesExtractorSeparator">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="phrasesExtractorSeparator" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="ClusterLabelingMethodPoissonSpinner">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="4.0" numberType="java.lang.Double" stepSize="0.1" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="ClusterLabelingMethodPoissonSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ClusterLabelingMethodPoissonLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="ClusterLabelingMethodPoissonLabel.text"/>
+        <Property name="name" type="java.lang.String" value="ClusterLabelingMethodPoissonLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelingMethodLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="labelingMethodLabel.text"/>
+        <Property name="name" type="java.lang.String" value="labelingMethodLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="labelingMethodComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="5">
+            <StringItem index="0" value="Mutual Information"/>
+            <StringItem index="1" value="Chi Square Selection"/>
+            <StringItem index="2" value="Rank Feature D-Score"/>
+            <StringItem index="3" value="Max TF-IDF (by Cluster)"/>
+            <StringItem index="4" value="Max TF-IDF (by Collection)"/>
+          </StringArray>
+        </Property>
+        <Property name="name" type="java.lang.String" value="labelingMethodComboBox" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="labelingMethodComboBoxActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JSlider" name="dendogramCuttingTresholdSlider">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="dendogramCuttingTresholdSlider.font"/>
+        <Property name="majorTickSpacing" type="int" value="100"/>
+        <Property name="maximum" type="int" value="1000"/>
+        <Property name="minorTickSpacing" type="int" value="50"/>
+        <Property name="paintTicks" type="boolean" value="true"/>
+        <Property name="value" type="int" value="825"/>
+        <Property name="name" type="java.lang.String" value="dendogramCuttingTresholdSlider" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="dendogramCuttingTresholdSliderStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusterMergingMethodLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusterMergingMethodLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusterMergingMethodLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="clusterMergingMethodComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="UPGMA Specified Cutting Treshold"/>
+            <StringItem index="1" value="UPGMA Natural Cutting Treshold"/>
+            <StringItem index="2" value="UPGMA Specified Number of Clusters"/>
+            <StringItem index="3" value="Manual by Topic"/>
+          </StringArray>
+        </Property>
+        <Property name="name" type="java.lang.String" value="clusterMergingMethodComboBox" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="clusterMergingMethodComboBoxActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="numberOfClusterLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="numberOfClusterLabel.text"/>
+        <Property name="name" type="java.lang.String" value="numberOfClusterLabel" noResource="true"/>
+        <Property name="requestFocusEnabled" type="boolean" value="false"/>
+        <Property name="verifyInputWhenFocusTarget" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="numberOfClusterSpinner">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="10" minimum="1" numberType="java.lang.Integer" stepSize="1" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="numberOfClusterSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="okCancelApplyButtonSeparator">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="okCancelApplyButtonSeparator" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusteringMethodLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="clusteringMethodLabel.font"/>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringMethodLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringMethodLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="phrasesExtractorLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="phrasesExtractorLabel.font"/>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" resourceKey="phrasesExtractorLabel.text"/>
+        <Property name="name" type="java.lang.String" value="phrasesExtractorLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusterLabelingMethodLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="clusterLabelingMethodLabel.font"/>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusterLabelingMethodLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusterLabelingMethodLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="clusteringMethodSeparator">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="clusteringMethodSeparator" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="phraseExtractorConfigureButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="phraseExtractorConfigureButton.text"/>
+        <Property name="name" type="java.lang.String" value="phraseExtractorConfigureButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="phraseExtractorConfigureButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="frequentPhrasesFilterLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="frequentPhrasesFilterLabel.text"/>
+        <Property name="name" type="java.lang.String" value="frequentPhrasesFilterLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfDocLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="fpfDocLabel.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="fpfDocLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfDocLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusterMergingLogBaseLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="clusterMergingLogBaseLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusterMergingLogBaseLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="clusterMergingLogBaseComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="new javax.swing.DefaultComboBoxModel(new String[] { &quot;&lt;html&gt;Log &lt;b&gt;&lt;i&gt;e&lt;/i&gt;&lt;/b&gt;&lt;html&gt;&quot;, &quot;&lt;html&gt;Log &lt;b&gt;&lt;i&gt;10&lt;/i&gt;&lt;/b&gt;&lt;html&gt;&quot;, &quot;&lt;html&gt;Log &lt;b&gt;&lt;i&gt;2&lt;/i&gt;&lt;/b&gt;&lt;html&gt;&quot; })" type="code"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="clusterMergingLogBaseComboBox" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelingLogTypeLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="labelingLogTypeLabel.text"/>
+        <Property name="name" type="java.lang.String" value="labelingLogTypeLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="labelingLogBaseComboBox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="new javax.swing.DefaultComboBoxModel(new String[] { &quot;&lt;html&gt;Log &lt;b&gt;&lt;i&gt;e&lt;/i&gt;&lt;/b&gt;&lt;html&gt;&quot;, &quot;&lt;html&gt;Log &lt;b&gt;&lt;i&gt;10&lt;/i&gt;&lt;/b&gt;&lt;html&gt;&quot;, &quot;&lt;html&gt;Log &lt;b&gt;&lt;i&gt;2&lt;/i&gt;&lt;/b&gt;&lt;html&gt;&quot; })" type="code"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="labelingLogBaseComboBox" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="fpfNumDocMinSpinner">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="fpfNumDocMinSpinner.font"/>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="0" minimum="0" numberType="java.lang.Integer" stepSize="1" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="fpfNumDocMinSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfDocMinLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="fpfDocMinLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfDocMinLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfNumDocMinLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="fpfNumDocMinLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfNumDocMinLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="fpfPersDocMinSpinner">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="0.0" maximum="100.0" minimum="0.0" numberType="java.lang.Double" stepSize="1.0" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="fpfPersDocMinSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfPersDocMinLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="fpfPersDocMinLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfPersDocMinLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfPersDocMaxLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="fpfPersDocMaxLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfPersDocMaxLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="fpfPersDocMaxSpinner">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="0.0" maximum="100.0" minimum="0.0" numberType="java.lang.Double" stepSize="1.0" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="fpfPersDocMaxSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="fpfNumDocMaxSpinner">
+      <Properties>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="0" minimum="0" numberType="java.lang.Integer" stepSize="1" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="fpfNumDocMaxSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfDocMaxLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="fpfDocMaxLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfDocMaxLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fpfNumDocMaxLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="fpfNumDocMaxLabel.text"/>
+        <Property name="name" type="java.lang.String" value="fpfNumDocMaxLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="discardStopWordsOnClusteringCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="discardStopWordsOnClusteringCheckBox.text"/>
+        <Property name="horizontalTextPosition" type="int" value="10"/>
+        <Property name="iconTextGap" type="int" value="0"/>
+        <Property name="name" type="java.lang.String" value="discardStopWordsOnClusteringCheckBox" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="discardStopWordsOnClusteringCheckBoxItemStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="stopWordFileTextField">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="stopWordFileTextField.text"/>
+        <Property name="name" type="java.lang.String" value="stopWordFileTextField" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="stopWordFileLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="stopWordFileLabel.text"/>
+        <Property name="name" type="java.lang.String" value="stopWordFileLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="stopWordFileBrowseButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="stopWordFileBrowseButton.text"/>
+        <Property name="name" type="java.lang.String" value="stopWordFileBrowseButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="stopWordFileBrowseButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="indexFileLabel">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" resourceKey="indexFileLabel.text"/>
+        <Property name="name" type="java.lang.String" value="indexFileLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="indexFileTitleLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="indexFileTitleLabel.font"/>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" resourceKey="indexFileTitleLabel.text"/>
+        <Property name="name" type="java.lang.String" value="indexFileTitleLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="indexFileSeparator">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="indexFileSeparator" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="indexFileTextField">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="indexFileTextField.text"/>
+        <Property name="name" type="java.lang.String" value="indexFileTextField" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="filterURLFileTextField">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="filterURLFileTextField.text"/>
+        <Property name="name" type="java.lang.String" value="filterURLFileTextField" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="indexFileBrowseButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="indexFileBrowseButton.text"/>
+        <Property name="name" type="java.lang.String" value="indexFileBrowseButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="indexFileBrowseButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="filterURLFileBrowseButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="filterURLFileBrowseButton.text"/>
+        <Property name="name" type="java.lang.String" value="filterURLFileBrowseButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="filterURLFileBrowseButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="filterURLOnClusteringCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="filterURLOnClusteringCheckBox.text"/>
+        <Property name="horizontalTextPosition" type="int" value="10"/>
+        <Property name="iconTextGap" type="int" value="0"/>
+        <Property name="name" type="java.lang.String" value="filterURLOnClusteringCheckBox" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="filterURLOnClusteringCheckBoxItemStateChanged"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ManualClusterFileLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="ManualClusterFileLabel.text"/>
+        <Property name="name" type="java.lang.String" value="ManualClusterFileLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ManualClusterFileTextField">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="ManualClusterFileTextField.text"/>
+        <Property name="name" type="java.lang.String" value="ManualClusterFileTextField" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ManualClusterFileBrowseButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="ManualClusterFileBrowseButton.text"/>
+        <Property name="name" type="java.lang.String" value="ManualClusterFileBrowseButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ManualClusterFileBrowseButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

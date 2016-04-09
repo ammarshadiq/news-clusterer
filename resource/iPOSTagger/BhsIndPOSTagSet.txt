@@ -1,0 +1,40 @@
+# This is the tag set for Part-Of-Speech Tag for Bahasa Indonesia
+# Each tag separated by "new line [/n]" character
+# Each element seperated by "tab [/t]" character
+# POS	POS Name		Example
+
+/OP	Open Parenthesis	({[
+/CP	Close Parenthesis	)}]
+/GM	Slash	/
+/;	Semicolon	;
+/:	Colon	:
+/"	Quotation	"'
+/.	Sentence Terminator	. ! ?
+/,	Comma	,
+/-	Dash	-
+/...	Elipsis	...
+/JJ	Adjective	Kaya, Manis
+/RB	Adverb	Sementara, Nanti
+/NN	Common Noun	Mobil
+/NNP	Proper Noun	Bekasi, Indonesia
+/NNG	Genetive Noun	Bukunya
+/VBI	Intransitive Verb	Pergi
+/VBT	Transitive Verb	Membeli
+/IN	Preposition	Di, Ke, Dari
+/MD	Modal	Bisa
+/CC	Coor-Conjunction	Dan, Atau, Tetapi
+/SC	Subor-Conjunction	Jika, Ketika
+/DT	Determiner	Para, Ini, Itu
+/UH	Interjection	Wah, Aduh, Oi
+/CDO	Ordinal Numerals	Pertama, Kedua
+/CDC	Collective Numerals	Bertiga
+/CDP	Primary Numerals	Satu, Dua
+/CDI	Irregural Numerals	Beberapa
+/PRP	Personal Pronouns	Saya, Kamu
+/WP	WH-Pronouns	Apa, Siapa
+/PRN	Number Pronouns	Kedua-duanya
+/PRL	Locative Pronouns	Sini, Situ, Sana
+/NEG	Negation	Bukan, Tidak
+/SYM	Symbols	@#$%^&
+/RP	Particles	Pun, Kah
+/FW	Foreign Words	Foreign, Word

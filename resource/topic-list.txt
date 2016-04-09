@@ -1,0 +1,128 @@
+# This is topic list file
+#
+# this file consist of [Topic ID], [Topic Title] and [Topic Labels] separated by "tab [\t]" character.
+# [Topic Labels] could consist of more than one Label each separated by "tab" [\t] character.
+# each Label in [Topic Labels] have to be have to be intuitively known as distict topic, synonyms or abrevations of the correct topic label.
+# that is, a reader "with" prior knowlege of recently news topics would understand what news document or event the topic label represents.
+#
+# for example : 
+# "Pepi Fernando" would be intuitively related to Book and Serpong Bombing main suspect, Pepi Fernando.
+# "Insident between TNI and civilian citizen at Kebumen" would be labeled as [insiden kebumen] and its synonym [bentrok warga dan tni di kebumen] 
+# "negara islam indonesia" is given label [negara islam indonesia] and its abreviation [nii]
+#
+# Another guide
+# The main topic are about Pepi Fernando's Wive, but since her are mentioned because the main suspect are her husband, the topic are pepi fernando.
+# 
+# This setting of abbrevation and synonim of a topic have to be intuitive, for example: "Abu Bakar Ba'asyir" and "Ba'asyir" 
+# would be intuitively known as the same person. But for the current Kapolri : "Timur Pradopo" and "Timur" couldnt.
+#
+# Topic ID 0 are reserved for "singleton topic" that is a topic that consist of only one document, so it doesn't have to be grouped.
+# this kind of singleton topics usually are news intermezo and not popular,
+# for example : http://nasional.vivanews.com/news/read/216598-aneh--pohon-pisang-berbuah-setinggi-2-meter 
+#
+# singleton cluster doesn't have to be Topic ID 0.
+# for example : topic ID [48] Jaksa Cirus Sinaga; only have 1 article and 0 mention. but given an ID.
+#
+# all of this topic would be processed as case-insensitive.
+
+0	OTHERS
+
+# TERORISME
+1	teror bom	teror bom	bom
+2	kontroversi status siaga 1 untuk mencegah terorisme	Status siaga 1	Siaga 1
+3	bom cirebon – m syarif	m syarif	Muchamad Syarif 	bom cirebon
+4	Abu bakar ba'asyir	abu bakar ba'asyir
+5	bom serpong, tanggerang	bom serpong
+6	Imam Firdaus, juru kamera yang diduga terlibat aksi terorisme bom serpong	imam firdaus
+7	Penyisiran bom di rawamangun dan cawang	penyisiran bom di cawang
+8	Pelaku terorisme bom tanggerang dan bom buku pepi fernando	pepi fernando
+9	Bom buku	bom buku
+10	Terorisme	terorisme
+11	Pelatihan teroris di Aceh	pelatihan teroris di aceh
+12	bom botol di luwuk	bom botol
+13	penyerangan rumah warga di palu oleh 114 polisi	polisi
+14	teror bom di KM 62 Rest Area Karawang Jalan tol Jakarta-Cikampek	teror bom cikampek
+
+# NII
+15	negara islam indonesia	nii	negara islam indonesia
+16	Radikalisme Islam	radikalisme islam
+
+# PERBANKAN
+17	pembobolan rekening PT elnusa di bank mega	elnusa
+18	kasus debt collector citibank yang menyebabkan tewasnya irzen octa	irzen octa	debt collector	citibank
+19	tersangka kasus kejahatan perbankan citibank inong melinda dee	inong melinda dee	melinda dee	citibank
+20	suami inong melinda dee, andhika gumilang dijadikan tersangka dan ditangkap pihak kepolisian	andhika gumilang	citibank
+21	Pengadilan tolak keberatan sita harta robert tantular	robert tantular	Kasus bank century
+22	kejahatan perbankan	bank
+
+# PERTUNANGAN IBAS-ALIYA
+23	pertunangan putra presiden sby, edhie baskoro yudhoyono (ibas) dengan puteri hatta rajasa, aliya rajasa (HOT!)	Pertungangan Ibas-aliya	edhie baskoro yudhoyono	aliya rajasa
+
+# GEMPA BUMI
+24	Gempa Cilacap	Gempa Cilacap
+25	Gempa Kendari	Gempa Kendari
+26	Gempa Bumi	Gempa Bumi
+
+# SUAP WAFID MUHARAM
+27	kpk menangkap basah seskemenpora wafid muharram saat menerima suap dari petinggi pt duta graha indah (HOT!)	wafid muharram	pt dgi	pt duta graha indah	kasus suap
+
+# PEMBONGKARAN MAKAM LETKOL HERU
+28	kontroversi pembongkaran makam heru atmodjo di taman makam pahlawan kalibata	heru atmodjo
+
+# BENTROKAN
+29	bentrok di samarinda	bentrok samarinda
+30	insiden bentrok warga dan tni di kebumen	insiden kebumen	bentrok warga dan tni di kebumen
+31	persidangan insiden penyerangan jamaah ahmadiyah di cikesik	jamaah ahmadiyah	insiden cikesik
+
+# ANTASARI AZHAR
+32	komisi yudisial evaluasi keputusan persidangan antasari azhar (HOT!)	antasari azhar
+
+# SBY
+33	presiden sby diberitakan terkena stroke	sby	susilo bambang yudhoyono	presiden sby	presiden susilo bambang yudhoyono
+34	sby: daripada tauran, lebih baik ikut tinju	sby	susilo bambang yudhoyono
+35	kapal tangker pertamina meledak di riau	tangker pertamina meledak
+
+# TKI
+36	pemulangan tki dari jeddah arab saudi dengan kapal motor labobar	km labobar
+37	tki	tki	tenaga kerja indonesia
+
+# DPR
+38	kontroversi kunjungan kerja dpr ke luar negeri	kunjungan kerja dpr	kunker dpr
+39	pembangunan gedung baru dpr	gedung baru dpr	gedung baru dewan	gedung baru dewan perwakilan rakyat
+40	dpr lobi amerika serikat cabut pencekalan sjafrie sjamsudin terkait dugaan pelanggaran ham	sjafrie sjamsudin
+41	citra buruk dpr	dpr	dewan perwakilan rakyat
+42	Anggota DPR fraksi PKS, Arifianto yang menonton konten porno saat sidang paripurna	Arifianto
+
+# NASDEM
+43	nasional demokrat daftarkan diri ke menkmham jadi parpol	nasdem	nasional demokrat
+
+# POLITIK
+44	konflik pkb – effendi choiri (gus choi)	konflik pkb	konflik partai kebangkitan bangsa	gus choi
+45	muktamar ppp	muktamar ppp	muktamar partai persatuan pembangunan
+
+# GUBERNUR BALI - MOGE
+46	Gubernur Bali, Made Mangku Pastika dipepet konvoi moge	Gubernur bali made mangku pastika	motor gede	moge
+
+# GAYUS					
+47	LPSK tolak permohonan perlindungan Gayus Tambunan	gayus tambunan	kasus mafia pajak
+48	Jaksa Cirus Sinaga	jaksa cirus sinaga
+49	Tersangka mafia pajak dan pemalsuan pasport, Gayus Tambunan	pemalsuan pasport gayus tambunan
+
+# LAIN-LAIN
+50	kabut asap menghambat jadwal penerbangan di pekan baru	kabut asap
+51	Seleksi tambahan 10 Hakim Agung Komisi Yudisial	hakim agung	komisi yudisial
+52	jenis malaria baru	malaria
+53	sengketa kepemilikan saham tpi antara mbak tutut dan mnc	tpi dan mnc
+54	Lumpur Lapindo	lumpur lapindo
+55	konvensi nasional hak kekayaan intelektual	haki	hak kekayaan intelektual
+56	pertemuan inovator dan industri tik	tik	teknologi informasi dan komunikasi
+57	Pornografi, porno aksi dan eksploitasi perempuan	pornografi	pornografi
+58	konflik pks	pks	partai keadilan sejahtera
+59	Peredaran narkoba di lembaga pemasyarakatan	lapas	lembaga pemasyarakatan
+60	wabah ulat bulu	ulat bulu
+61	peringatan hari otonomi daerah ke-15	otonomi daerah	otda
+62	ujian nasional tingkat smp	un	ujian nasional
+63	persiapan ktt asean 2011	ktt asean 2011
+64	persiapan may day	may day	hari buruh
+65	kasus susu berbakteri	susu berbakteri
+66	usai dilantik, jampidsus kejagung baru andi nirwanto berjanji meneruskan kasus sisminbakum	jampidsus kejagung	jampidsus kejaksaan agung	sisminbakum

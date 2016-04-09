@@ -1,0 +1,573 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="12" pref="12" max="12" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="manualClusterLabelingFileLabel" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="manualClusterLabelingFileTextField" min="-2" pref="207" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="manualClusterLabelingFileBrowseButton" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="jLabel8" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel6" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jSpinner1" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jCheckBox10" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jCheckBox2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jCheckBox3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jCheckBox4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jCheckBox8" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jCheckBox9" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="12" pref="12" max="12" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel1" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jSpinner2" alignment="0" min="-2" pref="55" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jComboBox1" min="-2" pref="182" max="-2" attributes="0"/>
+                                  <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                                  <Component id="clusteringEvaluationFMeasureBetaLabel1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="clusteringEvaluationFMeasureBetaSpinner1" linkSize="6" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" alignment="0" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane1" alignment="0" pref="464" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="1">
+                                      <Component id="clusteringEvaluationLabel" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="clusteringEvaluationRefLabel" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="clusterEvaluationCalculateLabel" min="-2" max="-2" attributes="0"/>
+                                          <Component id="manualClusterFileLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="manualClusterFileTextField" min="-2" pref="270" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="manualClusterFileBrowseButton" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="1">
+                                              <Component id="clusteringEvaluationPrecisionRecallCheckBox" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="clusteringEvaluationFMeasureCheckBox" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="clusteringEvaluationFMeasureBetaLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="clusteringEvaluationFMeasureBetaSpinner" linkSize="6" min="-2" pref="54" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="clusteringEvaluationPurityCheckBox" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="jCheckBox5" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jCheckBox6" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jCheckBox7" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="clusterLabelingEvaluationRefLabel" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="evaluateButton" alignment="0" pref="464" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="closeButton" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clusteringEvaluationLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationRefLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="manualClusterFileLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="manualClusterFileTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="manualClusterFileBrowseButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clusterEvaluationCalculateLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationPurityCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clusteringEvaluationPrecisionRecallCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationFMeasureCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationFMeasureBetaSpinner" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationFMeasureBetaLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jCheckBox6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationFMeasureBetaLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusteringEvaluationFMeasureBetaSpinner1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jSpinner2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jCheckBox7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clusterLabelingEvaluationRefLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="manualClusterLabelingFileLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="manualClusterLabelingFileTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="manualClusterLabelingFileBrowseButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jSpinner1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox10" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jCheckBox8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Component id="evaluateButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="190" max="32767" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Component id="closeButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="clusteringEvaluationLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="clusteringEvaluationLabel.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="manualClusterFileLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="manualClusterFileLabel.text"/>
+        <Property name="name" type="java.lang.String" value="manualClusterFileLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="manualClusterFileTextField">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="manualClusterFileTextField.text"/>
+        <Property name="name" type="java.lang.String" value="manualClusterFileTextField" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="manualClusterFileBrowseButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="manualClusterFileBrowseButton.text"/>
+        <Property name="name" type="java.lang.String" value="manualClusterFileBrowseButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="manualClusterFileBrowseButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="manualClusterLabelingFileTextField">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="manualClusterLabelingFileTextField.text"/>
+        <Property name="name" type="java.lang.String" value="manualClusterLabelingFileTextField" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="manualClusterLabelingFileBrowseButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="manualClusterLabelingFileBrowseButton.text"/>
+        <Property name="name" type="java.lang.String" value="manualClusterLabelingFileBrowseButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="manualClusterLabelingFileBrowseButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="manualClusterLabelingFileLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="manualClusterLabelingFileLabel.text"/>
+        <Property name="name" type="java.lang.String" value="manualClusterLabelingFileLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="closeButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" resourceKey="closeButton.text"/>
+        <Property name="name" type="java.lang.String" value="closeButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="closeButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox1.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox1" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox2.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox2" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox3.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox3" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox4.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox4" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="clusteringEvaluationPrecisionRecallCheckBox">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationPrecisionRecallCheckBox.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationPrecisionRecallCheckBox" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="clusteringEvaluationFMeasureCheckBox">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationFMeasureCheckBox.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationFMeasureCheckBox" noResource="true"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jScrollPane1" noResource="true"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="evaluationResultTextArea">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" resourceKey="evaluationResultTextArea.font"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" resourceKey="evaluationResultTextArea.text"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Evaluation Result">
+                  <Property name="titleX" resourceKey="evaluationResultTextArea.border.title"/>
+                </TitledBorder>
+              </Border>
+            </Property>
+            <Property name="name" type="java.lang.String" value="evaluationResultTextArea" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="evaluateButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="evaluateButton.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="evaluateButton.text"/>
+        <Property name="name" type="java.lang.String" value="evaluateButton" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="evaluateButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusterEvaluationCalculateLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusterEvaluationCalculateLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusterEvaluationCalculateLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel8.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel8" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel6.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel6" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="jSpinner1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="5" minimum="1" numberType="java.lang.Integer" stepSize="1" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="jSpinner1" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusteringEvaluationRefLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="clusteringEvaluationRefLabel.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationRefLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationRefLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusterLabelingEvaluationRefLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="clusterLabelingEvaluationRefLabel.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusterLabelingEvaluationRefLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusterLabelingEvaluationRefLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel2.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel2" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox8.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox8" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox9.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox9" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox10">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox4.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox10.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox10" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="clusteringEvaluationPurityCheckBox">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationPurityCheckBox.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationPurityCheckBox" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="clusteringEvaluationFMeasureBetaSpinner">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="1.0" minimum="0.0" numberType="java.lang.Double" stepSize="0.01" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationFMeasureBetaSpinner" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusteringEvaluationFMeasureBetaLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationFMeasureBetaLabel.text"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationFMeasureBetaLabel" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox5.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox5.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox5" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jRadioButton1.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel1.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel1" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clusteringEvaluationFMeasureBetaLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jRadioButton1.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="clusteringEvaluationFMeasureBetaLabel1.text"/>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationFMeasureBetaLabel1" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="clusteringEvaluationFMeasureBetaSpinner1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jRadioButton1.font"/>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="1.0" minimum="0.0" numberType="java.lang.Double" stepSize="0.01" type="number"/>
+        </Property>
+        <Property name="enabled" type="boolean" value="false"/>
+        <Property name="name" type="java.lang.String" value="clusteringEvaluationFMeasureBetaSpinner1" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jLabel4.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel4.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel4" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jRadioButton1.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jLabel5.text"/>
+        <Property name="name" type="java.lang.String" value="jLabel5" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSpinner" name="jSpinner2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jRadioButton1.font"/>
+        <Property name="model" type="javax.swing.SpinnerModel" editor="org.netbeans.modules.form.editors2.SpinnerModelEditor">
+          <SpinnerModel initial="10" minimum="1" numberType="java.lang.Integer" stepSize="1" type="number"/>
+        </Property>
+        <Property name="name" type="java.lang.String" value="jSpinner2" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jRadioButton1.font"/>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="By Cluster Max Precision"/>
+            <StringItem index="1" value="By Cluster Max F-Measure"/>
+          </StringArray>
+        </Property>
+        <Property name="name" type="java.lang.String" value="jComboBox1" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox6.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox6.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox6" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="jCheckBox7.font"/>
+        <Property name="text" type="java.lang.String" resourceKey="jCheckBox7.text"/>
+        <Property name="name" type="java.lang.String" value="jCheckBox7" noResource="true"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

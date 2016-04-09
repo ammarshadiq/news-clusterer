@@ -1,0 +1,547 @@
+# This is URL and topic list file
+# this file consist of [URL], [main topic] and <optional> [mentioning topic] separated by "tab [\t]" character
+# [mentioning topic] each separated by "comma [ , ]" character
+# topics are described at topic-list.txt file. 
+# for now the [mentioning topic] information is not used.
+
+http://www.antaranews.com/berita/255798/komisi-iv-minta-bulog-perhatikan-kualitas-dan-kuantitas-raskin 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk74wp-hampir-70-persen-napi-terlibat-narkoba 	59	
+http://www.antaranews.com/berita/255756/di-bui-tapi-kendalikan-kejahatan 	59	
+http://www.antaranews.com/berita/255766/pencipta-vaksin-kanker-serviks-berkunjung-ke-indonesia 	0	
+http://www.antaranews.com/berita/255748/pendaftaran-wise-awards-2011-dibuka 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9dxy-ketinggian-pantai-indonesia-kian-berkurang 	0	
+http://nasional.vivanews.com/news/read/216598-aneh--pohon-pisang-berbuah-setinggi-2-meter 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk77lc-tiga-prinsip-untuk-menepis-serangan-ulat-bulu 	60	
+http://www.antaranews.com/berita/255811/serangan-ulat-bulu-menyeberang-ke-sumatera 	60	
+http://www.antaranews.com/berita/255630/hama-tikus-gagalkan-panen-padi-di-blora 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkatgo-bakal-dicegah-impor-limbah-ke-indonesia 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkasik-sulit-cegah-pungli-sendirian-bea-cukai-susun-mou 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7gtb-agung-kuswandono-resmi-jabat-dirjen-bea-dan-cukai 	0	
+http://nasional.kompas.com/read/2011/04/26/16184120/Facebook.Politisi.Golkar.Dipakai.untuk.Menipu 	0	
+http://www.antaranews.com/berita/255736/kembar-siam-rochman-rochim-pindah-ruang 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk782r-melakukan-pornoaksi-artis-porno-asing-harus-ditindak 	57	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk75z6-waduh-ada-industri-hiburan-yang-eksploitasi-perempuan-sebagai-artis-porno 	57	
+http://www.antaranews.com/berita/255825/malaysia-belajar-pemberdayaan-perempuan-ke-indonesia 	0	57
+http://www.antaranews.com/berita/255682/anak-autis-sering-jadi-korban-orang-tua 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkalbr-kabut-selimuti-bandara-pekan-baru-jadwal-penerbangan-terganggu 	50	
+http://nasional.vivanews.com/news/read/216962-kabut-asap-ganggu-penerbangan-di-pekanbaru 	50	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8wq1-paket-bom-di-pintu-air-cililitan-gegerkan-warga 	0	1
+http://www.antaranews.com/berita/255698/paket-diduga-bom-di-kantor-kejaksaan-kolaka 	0	1
+http://www.antaranews.com/berita/255771/paket-diduga-bom-di-ruang-ganti-gor-padang 	0	1
+http://nasional.vivanews.com/news/read/216817-padang-bangun-kebun-binatang-pendeteksi-gempa 	0	26
+http://www.antaranews.com/berita/255952/buaya-yang-hilang-akhirnya-pulang 	0	
+http://www.antaranews.com/berita/255797/buaya-temukan-jalan-ke-kamar-mandi 	0	
+http://www.antaranews.com/berita/255975/kamar-seks-di-polresta-medan 	0	
+http://www.antaranews.com/berita/255738/dua-tahanan-kabur-usai-sidang-di-bogor 	0	
+http://www.antaranews.com/berita/255955/warga-kuba-buat-cerutu-sepanjang-70-meter 	0	
+http://www.antaranews.com/berita/255775/stuntman-inggris-tewas-dalam-kecelakaan-adegan-bom-manusia 	0	
+http://www.antaranews.com/berita/255657/seorang-pria-tewas-setelah-berlari-di-kolong-truk 	0	
+http://nasional.vivanews.com/news/read/216796-komnas-ham-kritisi-pembongkaran-makam-heru 	28	
+http://nasional.vivanews.com/news/read/216706--keluarga-minta-makam-letkol-heru-dipindah- 	28	
+http://nasional.vivanews.com/news/read/216667-patutkah-heru--diusir--dari-tmp-kalibata- 	28	
+http://nasional.vivanews.com/news/read/216753-makam-dibongkar--siapa-letkol-heru-atmodjo- 	28	
+http://nasional.vivanews.com/news/read/216690-tni--pemakaman-letkol-heru-salah-prosedur 	28	
+http://nasional.vivanews.com/news/read/216610-diduga-pki--makam-heru-dipindah-dari-kalibata 	28	
+http://nasional.kompas.com/read/2011/04/25/12213161/3.Provinsi.Ajukan.Pak.Sjaf.Jadi.Pahlawan 	0	
+http://www.antaranews.com/berita/255769/polisi-tanjungpinang-tangkapi-belasan-remaja-punk 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkarzc-sby-minta-pemuda-daripada-tawuran-lebih-baik-ikut-tinju 	34	
+http://nasional.vivanews.com/news/read/217003-sby--daripada-tawuran--mending-masuk-tinju 	34	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7m4u-polisi-bebaskan-penginjak-kain-merah-putih 	0	
+http://www.antaranews.com/berita/255971/jafar-keinginan-pks-belum-terakomodir-dalam-kontrak-koalisi 	0	
+http://www.antaranews.com/berita/255700/pks-belum-tandatangani-kontrak 	58	
+http://nasional.kompas.com/read/2011/04/25/19305528/Yusuf.Supendi.Tantang.Luthfi.dan.Fachri 	58	
+http://nasional.kompas.com/read/2011/04/25/17070421/Dipecat..Yusuf.Supendi.Gugat.Elite.PKS 	58	
+http://nasional.vivanews.com/news/read/216605-produk-lg-tetap-lebih-unggul 	0	
+http://www.antaranews.com/berita/255770/komisi-ii-selidiki-laporan-fiktif-perusahaan-pertambangan 	0	
+http://www.antaranews.com/berita/255932/pemerintah-alokasikan-rp600-juta-untuk-hki-gratis 	55	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7mwm-pengelola-mall-terancam-sanksi-jika-beri-ruang-barang-bajakan 	55	
+http://www.antaranews.com/berita/255808/presiden-perintahkan-pemberantasan-intensif-pelanggaran-hki 	55	
+http://www.antaranews.com/berita/255807/presiden-persoalkan-istilah-hak-kekayaan-intelektual 	55	
+http://nasional.vivanews.com/news/read/216813-sby-tak-setuju-istilah--kekayaan-intelektual- 	55	
+http://www.antaranews.com/berita/255788/presiden-sby-buka-konvensi-nasional-hki 	55	
+http://nasional.vivanews.com/news/read/216759-wr-supratman-terima-penghargaan-haki 	55	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7ms2-pemerintah-perlu-bentuk-unit-khusus-pemberantasan-pornografi 	57	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7mlz-pemerintah-dinilai-setengah-hati-tanggulangi-pornografi 	57	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9bk2-uji-materi-uu-pornografi-ditolak 	57	
+http://www.antaranews.com/berita/255897/mk-tolak-permohonan-uji-materi-uu-pornografi 	57	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk90x1-tifatul-ini-pertemuan-inovator-dan-industri-tik 	56	
+http://nasional.kompas.com/read/2011/04/26/21390134/Pertemuan.Inovator.dan.dan.Industri.TIK 	56	
+http://nasional.kompas.com/read/2011/04/26/21390134/Pertemuan.Inovator.dan.Industri.TIK 	56	
+http://www.antaranews.com/berita/255699/puluhan-warga-wonosobo-keracunan 	0	
+http://nasional.vivanews.com/news/read/216845-ylki--beri-label-ke-makanan-bebas-radioaktif 	0	26
+http://www.antaranews.com/berita/255834/garut-diguncang-gempa 	26	
+http://www.antaranews.com/berita/255835/gempa-juga-guncang-sukabumi 	26	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkai3u-duh-ada-80-ribu-potensi-gempa-di-indonesia 	26	26
+http://www.antaranews.com/berita/255949/tim-9-petakan-80-ribu-potensi-gempa-indonesia 	26	26
+http://www.antaranews.com/berita/255751/gubernur-minta-warga-tetap-waspadai-gempa 	25	26
+http://www.antaranews.com/berita/255635/pascagempa-warga-kendari-berhamburan-keluar-rumah 	25	26
+http://www.antaranews.com/berita/255647/gempa-kendari-karyawan-lompat-dari-lantai-tiga 	25	26
+http://www.antaranews.com/berita/255634/gempa-susulan-guncang-kendari 	25	26
+http://www.antaranews.com/berita/255633/gempa-60-sr-guncang-kendari 	25	26
+http://www.antaranews.com/berita/255832/jakarta-diguncang-gempa 	26	
+http://www.antaranews.com/berita/255842/cilacap-kembali-diguncang-gempa 	24	26
+http://www.antaranews.com/berita/255836/pusat-gempa-di-cilacap-kekuatannya-63-sr 	24	26
+http://nasional.vivanews.com/news/read/216788-warga-cilacap-panik--takut-ancaman-tsunami 	24	26
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8zs1-gempa-bumi-kembali-landa-cilacap 	24	26
+http://nasional.vivanews.com/news/read/216889-mengapa-dua-gempa-kuat-mengguncang-cilacap- 	24	26
+http://nasional.vivanews.com/news/read/216783-gempa-6-3-sr-goyang-cilacap 	24	26
+http://nasional.kompas.com/read/2011/04/27/12013283/Operasi.Gabungan.Pengamanan.Laut.Digelar 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9f9j-seorang-tki-melahirkan-lagi-di-kapal-dari-jeddah 	36	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7rhi-seorang-dari-87-wanita-hamil-yang-dipulangkan-dari-jeddah 	36	
+http://nasional.vivanews.com/news/read/216666-tkw-lahirkan-bayi-di-atas-kapal-labobar 	36	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8yn9-mengikuti-pemulangan-tki-dengan-km-labobar 	36	
+http://www.antaranews.com/berita/255890/2349-wni-overstayers-dipulangkan-dari-arab-saudi 	36	
+http://nasional.kompas.com/read/2011/04/26/20261340/KM.Labobar.Tiba.dari.Jeddah.3.Mei 	36	
+http://www.antaranews.com/berita/255701/menhan-resmikan-kri-clurit-buatan-palindo 	0	
+http://www.antaranews.com/berita/255654/tiga-kapal-ikan-malaysia-ditahan 	0	
+http://nasional.vivanews.com/news/read/216647-pertamina--tanker-meledak-bukan-milik-kami 	35	
+http://nasional.vivanews.com/news/read/216586-tanker-pertamina-meledak-karena-las 	35	
+http://nasional.vivanews.com/news/read/216544-kapal-tangker-meledak-di-riau--1-tewas 	35	
+http://nasional.kompas.com/read/2011/04/25/15474495/Menlu.Pembebasan.ABK.Terus.Berlanjut 	0	
+http://www.antaranews.com/berita/255649/polres-antisipasi-gerakan-rms 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7bn7-antisipasiterorisme-pertamina-cilacap-tingkatkan-pengamanan 	0	1
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7ne6-waduh-80-persen-wartawan-indonesia-belum-profesional 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk6y6c-jurnalis-diduga-terlibat-terorisme-istana-tingkatkan-kewaspadaan 	0	1
+http://nasional.kompas.com/read/2011/04/25/11212134/Wartawan.Istana.Tak.Boleh.Bawa.Ransel 	0	1
+http://www.antaranews.com/berita/255915/mendiknas-20-daerah-belum-salurkan-bos 	0	
+http://www.antaranews.com/berita/255913/konflik-sma-70-bulungan-sampai-ke-pengadilan 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk762e-inilah-pemda-berkinerja-terbaik-versi-kemendagri 	61	
+http://www.antaranews.com/berita/255979/dpr-tak-setuju-sanksi-bagi-daerah-yang-gagal-jalankan-otda 	61	
+http://www.antaranews.com/berita/255979/dpr-tak-setuju-sanksi-bagi-daerah-gagal-otda 	61	
+http://www.antaranews.com/berita/255655/wapres-hadiri-peringatan-hari-otonomi-daerah-ke-xv 	61	
+http://www.antaranews.com/berita/255764/likaham-bupati-mamuju-pelanggar-ham 	0	
+http://www.antaranews.com/berita/255632/teganya-pungli-pemkab-mamuju 	0	
+http://www.antaranews.com/berita/255675/siswa-kesurupan-massal-setelah-ujian-nasional 	62	
+http://www.antaranews.com/berita/255718/ikut-un-meski-jadi-terpidana 	62	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk76kd-bunga-mengikuti-ujian-nasional-di-dalam-sel-polsek-gayungan 	62	
+http://www.antaranews.com/berita/255696/14-peserta-un-smp-banjarbaru-dicoret 	62	
+http://www.antaranews.com/berita/255684/un-sma-terbukti-bocor-di-gorontalo 	62	
+http://www.antaranews.com/berita/255666/mendiknas-sidak-un 	62	
+http://www.antaranews.com/berita/255796/disdik-bekasi-jamin-tidak-ada-kebocoran-soal 	62	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkajpi-ikut-ujian-nasional-siswa-smp-barut-carter-kapal 	62	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8nk2-ratusan-siswa-di-jember-tak-ikut-un-ada-yang-memilih-menikah-bekerja-dan-pindah 	62	
+http://www.antaranews.com/berita/255785/312-peserta-un-di-jember-mengundurkan-diri 	62	
+http://www.antaranews.com/berita/255777/diknas-tidak-ada-peserta-un-susulan-bojonegoro 	62	
+http://www.antaranews.com/berita/255653/siswa-sakit-laksanakan-un-di-dalam-mobil 	62	
+http://nasional.vivanews.com/news/read/216501-gara-gara-debt-colletor--ika-gagal-ikuti-un 	62	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9cz3-kuasa-hukum-tersangka-tolak-otopsi-ulang-jenazah-irzen 	18	22
+http://www.antaranews.com/berita/255877/kepolisian-belum-tetapkan-tersangka-kasus-videotron 	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk6xkr-tersangka-pembobol-elnusa-ternyata-buronan-polisi 	17	22
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7ngf-pembobolan-deposito-elnusa-bank-mega-menolak-bertanggung-jawab 	17	22
+http://www.antaranews.com/berita/255702/polda-jaya-kejar-dana-kerugian-pt-elnusa 	17	22
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7fo8-pengacara-pencairan-rekening-elnusa-sesuai-prosedur 	17	22
+http://nasional.vivanews.com/news/read/216661--pencairan-dana-elnusa-sesuai-prosedur- 	17	22
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk7oec-pengawasan-bi-dinilai-lemah-dpr-usulkan-libatkan-lembaga-lain 	22	18
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9a6o-hasil-pengusutan-bi-citibank-lakukan-empat-pelanggaran 	18	22
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkamcj-andhika-gumilang-diancam-penjara-15-tahun-denda-rp-15-m 	20	19, 22
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkakcz-suami-siri-malinda-dee-jadi-tersangka 	20	19, 22
+http://nasional.vivanews.com/news/read/216965-andhika-gumilang-ditangkap-di-pacific-place 	20	19, 22
+http://www.antaranews.com/berita/255976/andhika-jadi-tersangka-kasus-malinda 	20	19, 22
+http://nasional.vivanews.com/news/read/216953-barang-bukti-andhika-gumilang--mobil-hummer 	20	19, 22
+http://nasional.vivanews.com/news/read/216948-andhika-gumilang-ditangkap-kemarin-siang 	20	19, 22
+http://nasional.vivanews.com/news/read/216947-andhika-gumilang-jadi-tersangka 	20	19, 22
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkamuz-andhika-tahu-aliran-dana-ke-rekeningnya-dari-kejahatan 	20	19, 22
+http://nasional.vivanews.com/news/read/216974-polri--andhika-tahu-kejahatan-malinda-dee 	20	19, 22
+http://nasional.kompas.com/read/2011/04/27/11005759/Ito.Andhika.Tahu.Hasil.Penggelapan 	20	19, 22
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk98xn-malinda-dee-citibank-jadi-tempat-pencucian-uang-nasabah-selama-10-tahun 	19	22
+http://nasional.kompas.com/read/2011/04/26/22093454/MD.Desak.6.Pegawai.Citibank.Ditahan 	19	22
+http://www.antaranews.com/berita/255812/wapres-indonesia-perkuat-asean-atasi-masalah-global 	63	
+http://www.antaranews.com/berita/255831/jakarta-kondusif-jelang-ktt-asean 	63	
+http://www.antaranews.com/berita/255722/tni-siapkan-satgaspam-ktt-asean-2011 	63	
+http://www.antaranews.com/berita/255714/cetak-biru-pengembangan-jamu-harus-segera-selesai 	0	
+http://www.antaranews.com/berita/255970/polda-kerahkan-6000-personel-amankan-hari-buruh 	64	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9dnv-menakertrans-peringatan-may-day-harap-tertib 	64	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9egl-polisi-sisir-rumah-tempat-tersangka-teroris-menginap 	1	8, 5, 9, 10
+http://www.antaranews.com/berita/255880/menakertrans-imbau-perayaan-may-day-tertib 	64	
+http://www.antaranews.com/berita/255965/anggota-dpr-kunjungan-kerja-ke-moskow 	38	
+http://www.antaranews.com/berita/255750/kosmonot-rusia-tak-pernah-bercinta-di-luar-angkasa 	0	
+http://www.antaranews.com/berita/255726/indonesia--china-kerja-sama-pelatihan-tenaga-kerja 	0	37
+http://www.antaranews.com/berita/255723/paspor-tkw-seharusnya-disimpan-kbri 	37	
+http://nasional.vivanews.com/news/read/216545-sby--percepatan-pembangunan-bisa-kurangi-tki 	37	
+http://nasional.vivanews.com/news/read/216570-mei--tki-bisa-dikirim-lagi-ke-malaysia 	37	
+http://nasional.vivanews.com/news/read/216597-negara-tujuan-pengiriman-tki-akan-diaudit 	37	
+http://nasional.kompas.com/read/2011/04/25/18060185/Pemerintah.Evaluasi.Pengiriman.TKI 	37	
+http://www.republika.co.id/berita/nasional/politik/11/04/26/lk8sek-kapolri-status-siaga-satu-dicabut 	2	10, 1
+http://nasional.vivanews.com/news/read/216731-kapolri-cabut-status-siaga-1 	2	10, 1, 5, 9, 3
+http://nasional.vivanews.com/news/read/216828-djoko--pertanyakan-siaga-1--setuju-terorisme 	2	10, 1, 5, 9
+http://nasional.vivanews.com/news/read/216643-siaga-i-dikritik--ini-jawaban-menkopolkam 	2	10, 1, 5, 9
+http://www.antaranews.com/berita/255914/menko-polhukam-siaga-satu-bukan-hanya-untuk-tnipolri 	2	10, 1
+http://www.antaranews.com/berita/255845/pemerintah-turunkan-status-siaga-satu 	2	10, 1, 5
+http://nasional.kompas.com/read/2011/04/26/16011585/Siaga.I.Sudah.Dicabut 	2	10, 1
+http://nasional.kompas.com/read/2011/04/26/12500523/Status.Siaga.I.untuk.Apa 	2	10, 1
+http://nasional.kompas.com/read/2011/04/26/12500523/Status.Siaga.I.Untuk.Apa 	2	10, 1
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk98mv-menhan-status-tanah-kebumen-milik-negara 	30	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7k90-ini-dia-temuan-sementara-komnas-ham-soal-penembakan-tni-di-kebumen 	30	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9ai3-hari-ini-dpr-terima-pemaparan-bentrok-kebumen-versi-tni 	30	
+http://www.antaranews.com/berita/255888/tni-perlihatkan-foto-bentrok-kebumen 	30	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9brq-terkait-bentrok-kebumen-dpr-akan-panggil-panglima-tni 	30	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9ha7-komisi-i-berencana-bentuk-tim-kecil-kasus-kebumen 	30	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9jot-tuntaskan-konflik-kebumen-dpr-desak-solusi-konkret-pemerintah 	30	
+http://www.antaranews.com/berita/255902/dpr-desak-ada-solusi-konkrit-insiden-kebumen 	30	
+http://www.antaranews.com/berita/255850/tni-berupaya-pertahankan-aset-negara-di-kebumen 	30	
+http://nasional.kompas.com/read/2011/04/26/22450434/DPR.TNI.Jangan.Latihan.di.Tempat.Padat 	30	
+http://nasional.kompas.com/read/2011/04/27/09404927/Bentrok.Kebumen..12.Motor.Warga.Rusak 	30	
+http://nasional.kompas.com/read/2011/04/26/22265097/Anak.anak.di.Setrojenar.Trauma 	30	
+http://nasional.kompas.com/read/2011/04/26/21271294/Presiden.Diminta.Lebih.Proaktif 	30	
+http://nasional.kompas.com/read/2011/04/26/12231166/Pemerintah.Jangan.Sembarang.Libatkan.TNI 	0	10
+http://nasional.kompas.com/read/2011/04/25/1455425/Pemerintah.Libatkan.Perbankan 	54	
+http://www.antaranews.com/berita/255737/pembangunan-papua-kedepankan-pendekatan-kesejahteraan 	0	
+http://nasional.vivanews.com/news/read/216504-bantah-sakit--tim-dokter-sby-siap-klarifikasi 	33	
+http://www.antaranews.com/berita/255658/presiden-sby-bantah-terserang-stroke 	33	
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk6wg4-sby-heran-diberitakan-kena-stroke 	33	
+http://nasional.vivanews.com/news/read/216509-sby--puluhan-tahun-saya-tak-pernah-disuntik 	33	
+http://nasional.kompas.com/read/2011/04/25/10555136/Presiden.Puluhan.Tahun.Saya.Tak.Disuntik 	33	
+http://nasional.vivanews.com/news/read/216571-cristian-gonzales-jadi-saksi-logo-garuda 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7o3q-kemenkesteliti-parasit-pemicu-jenis-malaria-baru 	52	
+http://www.antaranews.com/berita/255729/kemenkes-masih-teliti-jenis-malaria-baru 	52	
+http://nasional.vivanews.com/news/read/216695-susu-berbakteri--pengadilan-panggil-menkes 	65	
+http://nasional.vivanews.com/news/read/216786-pengadilan--umumkan-susu-bakteri-dalam-8-hari 	65	
+http://www.antaranews.com/berita/255861/ipb-belum-mau-umumkan-susu-formula-berbakteri 	65	
+http://nasional.kompas.com/read/2011/04/26/2148403/PN.Jakpus.Tegur.Menkes..BPOM..dan.IPB 	65	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9fhh-polda-klaim-serahkan-tiga-dokumen-milik-kpk-ke-kejaksaan 	0	32
+http://www.antaranews.com/berita/255849/kejaksaan-perpanjang-penahanan-erwinta 	0	
+http://www.antaranews.com/berita/255727/kejagung-terima-berkas-cirus-dari-polri 	48	49
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9krg-terkait-pemalsuan-paspor-berkas-gayus-dinyatakan-lengkap 	49	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkaiu1-lpsk-tolak-permohonan-perlindungan-gayus-tambunan 	47	49
+http://nasional.vivanews.com/news/read/216971-lpsk-tolak-beri-perlindungan-kepada-gayus 	47	49
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkarug-usai-dilantik-jampidsus-baru-janji-teruskan-kasus-sisminbakum 	66	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7ddi-icw-kasus-sisminbakum-harus-jalan-terus 	66	
+http://www.antaranews.com/berita/255862/jaksa-agung-lantik-jampidsus-baru-rabu 	66	
+http://www.antaranews.com/berita/255981/jampidsus-baru-lanjutkan-penanganan-sisminbakum 	66	
+http://www.antaranews.com/berita/255859/kejagung-belum-bersikap-soal-pk-romli 	0	
+http://www.antaranews.com/berita/255982/pelantikan-jampidsus-baru-bentuk-penyegaran 	66	
+http://nasional.vivanews.com/news/read/217001-pergantian-jabatan-demi-masa-depan-kejaksaan 	66	
+http://nasional.vivanews.com/news/read/216992-jampidsus-baru-akan-hati-hati-buat-keputusan 	66	
+http://nasional.vivanews.com/news/read/216951-wartawan-dilarang-liput-pelantikan-jampidsus 	66	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lka372-chandra-kpk-kaget-rencana-dpr-revisi-uu-kpk 	0	
+http://www.antaranews.com/berita/255753/pemberantasan-korupsi-tak-diukur-kembalinya-uang-negara 	0	
+http://www.antaranews.com/berita/255731/taslim-tudingan-icw-bahwa-dpr-perlemah-kpk-tidak-benar 	0	
+http://nasional.vivanews.com/news/read/216745-wali-kota-bekasi-didakwa-4-kasus-korupsi 	0	
+http://nasional.vivanews.com/news/read/216607-mantan-kadis-pu-sumsel-divonis-4-tahun-bui 	0	
+http://nasional.vivanews.com/news/read/216756-terdakwa-insiden-cikeusik-dijerat-berlapis 	31	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8rbb-ribuan-simpatisasn-kasus-cikeusik-gelar-istighosah 	31	
+http://nasional.vivanews.com/news/read/216675-berisiko--warga-ahmadiyah-tak-hadir-di-sidang 	31	
+http://nasional.vivanews.com/news/read/216602-penyerang-ahmadiyah-di-cikeusik-disidangkan 	31	
+http://nasional.vivanews.com/news/read/216601-730-polisi-jaga-sidang-perdana-kasus-cikeusik 	31	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7myh-anggota-komisi-iii-dpr-rencanakan-panggil-ma-terkait-putusan-tpi 	53	
+http://www.antaranews.com/berita/255833/mbak-tutut-sesalkan-tuduhan-mafia-hukum 	53	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9dmp-pengadilan-tolak-keberatan-sita-harta-robert-tantular 	21	22
+http://www.antaranews.com/berita/255875/pengadilan-tolak-keberatan-sita-harta-robert-tantular 	21	22
+http://nasional.vivanews.com/news/read/216838-pengadilan-tetap-sita-harta-robert-tantular 	21	22
+http://www.antaranews.com/berita/255871/ky-tunggu-makalah-tiga-calon-hakim-agung 	51	
+http://www.antaranews.com/berita/255705/ky-75-calon-hakim-agung-serahkan-makalah 	51	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk9c1e-sidang-hakim-nakal-ky-tunjuk-empat-komisioner-untuk-mkh 	32	
+http://nasional.vivanews.com/news/read/216549-ky--patrialis-kurang-banyak-baca 	32	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk6yw1-menkum-ham-tegaskan-ky-tidak-tangani-pokok-perkara-antasari 	32	
+http://www.antaranews.com/berita/255659/menkumham--ky-tidak-tangani-pokok-perkara 	32	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk77q4-menkumham-ingatkan-ky-soal-pemeriksaan-hakim-antasari 	32	
+http://nasional.vivanews.com/news/read/216524-patrialis--ky-tak-berhak-nilai-kasus-antasari 	32	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk8ue6-ketua-mk-dorong-ky-tetap-periksa-hakim-kasus-antasari 	32	
+http://nasional.vivanews.com/news/read/216747-mahfud-md--ky-tak-boleh-nilai-putusan-hakim 	32	
+http://nasional.vivanews.com/news/read/216810-ketua-ky-bantah-bebaskan-antasari-azhar 	32	
+http://nasional.vivanews.com/news/read/216512--jumlah-peluru-berbeda-saat-di-persiangan- 	32	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7c5g-telusuri-kasus-antasari-ky-periksa-munim-idris 	32	
+http://www.antaranews.com/berita/255694/ky-minta-keterangan-ahli-forensik-kasus-antasari 	32	
+http://nasional.vivanews.com/news/read/216486-ky-periksa-ahli-forensik-mun-im-idris 	32	
+http://nasional.vivanews.com/news/read/216486-ky-periksa-ahli-forensik-mun-im-idris 	32	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7e1w-hasil-pemeriksaan-ky-bisa-dijadikan-dasar-gugatan-oleh-antasari 	32	
+http://nasional.kompas.com/read/2011/04/25/13242232/KY.Segera.Periksa.Ahli.Balistik.dan.TI 	32	
+http://nasional.kompas.com/read/2011/04/25/13242232/KY.Segera.Periksa.Ahli.Balistik.dan.IT 	32	
+http://nasional.vivanews.com/news/read/216520-10-keganjilan-kasus-antasari-versi-pengacara 	32	
+http://nasional.kompas.com/read/2011/04/26/1350116/10.Kejanggalan.Kasus.Antasari 	32	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7ej5-amankan-sidang-cikeusik-200-personel-tni-diterjunkan 	30	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7cob-inilah-fakta-tentang-kematian-nasrudin-zulkarnaen-versi-ahli-forensik 	32	
+http://nasional.kompas.com/read/2011/04/25/12211182/Munim.Jenazah.Nasrudin.Sudah.Tidak.Asli 	32	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkaeu9-kpk-ingatkan-hatta-radjasa-potensi-gratifikasi-pernikahan-anaknya 	23	
+http://nasional.vivanews.com/news/read/216832-balon-bupati-usungan-demokrat-tersangka-suap 	11	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkas1r-bila-sponsor-maksimal-sea-games-tak-perlu-dana-tambahan 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7gb6-djoko-pekik-ditunjuk-sebagai-plh-sesmenpora 	27	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkarpl-terkait-dugaan-suap-sesmenpora-kpk-periksa-mrm-dan-mei 	27	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7kd1-kpk-bantah-menjebak-sekretaris-kemenpora 	27	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7fzs-barbuk-di-ruangan-seskemenpora-amplop-berisi-mata-uang-asing 	27	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7nrm-kpk-terus-kembangkan-kasus-suap-di-kemenpora 	27	
+http://www.antaranews.com/berita/255733/kpk-kembangkan-kasus-suap-di-kemenpora 	27	
+http://nasional.vivanews.com/news/read/216604-kronologi-penangkapan-sekretaris-kemenpora 	27	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk99rt-kantor-salah-satu-kontraktor-gedung-baru-dpr-digeledah-kpk 	27	39
+http://nasional.vivanews.com/news/read/216874-kpk-kembalikan-uang-dan-hp-milik-sesmenpora 	27	
+http://nasional.vivanews.com/news/read/216652-usai-diperiksa-kpk--dirut-pt-dgi-bungkam 	27	39
+http://nasional.vivanews.com/news/read/216959-pengacara-wafid--rosalina-saksi-kunci 	27	
+http://nasional.vivanews.com/news/read/216834-bela-wafid--adhyaksa-izin-andi-mallarangeng 	27	39
+http://nasional.vivanews.com/news/read/216836-kemenpora-tak-siapkan-pengacara-untuk-wafid 	27	39
+http://nasional.vivanews.com/news/read/216830-fokus-ke-dokumen--kpk-belum-panggil-andi 	27	39
+http://nasional.vivanews.com/news/read/216734-andi-mallarangeng--saya-belum-dipanggil-kpk 	27	39
+http://nasional.vivanews.com/news/read/216846--wafid-tak-dapat-jelaskan-uang-di-kantornya- 	27	
+http://nasional.vivanews.com/news/read/216820-wafid-diverifikasi-soal-hasil-penggeledahan 	27	39
+http://nasional.vivanews.com/news/read/216592-kpk-sita-ratusan-juta-dari-kantor-sesmenpora 	27	
+http://nasional.vivanews.com/news/read/216659-broker-proyek-menpora-bungkam-usai-diperiksa 	27	
+http://nasional.vivanews.com/news/read/216649-adhyaksa--proyek-wisma-dilakukan-di-masa-andi 	27	
+http://nasional.vivanews.com/news/read/216583-ruhut--suap-sesmenpora-tak-terkait-demokrat 	27	
+http://nasional.vivanews.com/news/read/216547-perusahaan-penyuap-ikut-tender-gedung-dpr 	27	39
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7ick-diduga-dijebak-adhyaksa-dault-jadi-penasehat-hukum-seskemenpora 	27	
+http://www.antaranews.com/berita/255873/menpora-tegaskan-kerjasama-penuh-dengan-kpk 	27	
+http://nasional.kompas.com/read/2011/04/27/13221884/Andi.Usut.Tuntas.Kasus.Wafid.Muharram 	27	
+http://www.antaranews.com/berita/255905/anggota-dpr-desak-kpk-usut-suap-wisma-atlet 	27	39
+http://nasional.kompas.com/read/2011/04/26/20504165/Adhyaksa.WM.Hanya.Dijebak 	27	
+http://nasional.kompas.com/read/2011/04/26/14143715/Sssttt....Adhyaksa.Jadi.Kuasa.Hukum.WM 	27	
+http://nasional.kompas.com/read/2011/04/25/21311184/KPK.Temukan.Amplop.di.Ruang.Sesmenpora 	27	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7jnx-pejabatnya-terkait-suap-pt-dgi-masih-mungkin-menang-tender-gedung-baru-dpr 	27	39
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk6z4k-peserta-tender-gedung-dpr-ditangkap-kpk 	27	39
+http://nasional.kompas.com/read/2011/04/25/1452558/Tender.Bukan.Urusan.Ketua.DPR 	39	41
+http://www.antaranews.com/berita/255967/nurhayati-bangga-pertemukan-parlemen-israel-dan-palestina 	0	
+http://www.antaranews.com/berita/255717/nurhayati-desak-setjen-dpr-usir-undp 	0	
+http://www.antaranews.com/berita/255721/as-tak-perlu-adili-sjafrie-sjamsuddin-dengan-cekal 	40	
+http://www.antaranews.com/berita/255844/tidak-ada-masalah-soal-cekal-sjafrie 	40	
+http://www.antaranews.com/berita/255703/parlemen-indonesia-lobi-as-cabut-cekal-sjafrie 	40	10
+http://nasional.kompas.com/read/2011/04/27/1120020/DPR.Jamin.Kunker.ke.Perancis.Efektif 	38	41
+http://nasional.kompas.com/read/2011/04/27/10560477/Purnomo.Sindir.Citra.Buruk.DPR 	41	38
+http://nasional.kompas.com/read/2011/04/26/20383641/Menteri.Sindir.Citra.Buruk.DPR 	41	38
+http://nasional.kompas.com/read/2011/04/26/1112173/Studi.Banding.Bawa.Anak.Istri 	38	41
+http://nasional.kompas.com/read/2011/04/26/1116136/Bahas.RUU.Fakir.Miskin..Tak.Kunjungi.Daerah.Miskin 	38	41
+http://nasional.kompas.com/read/2011/04/26/11052170/Berkunjung.Saat.Parlemen.Australia.Reses 	38	41
+http://nasional.kompas.com/read/2011/04/26/11003069/Susahnya.Mencari.Informasi.Studi.Banding.DPR 	38	41
+http://nasional.kompas.com/read/2011/04/25/16590531/Soal.Kunker.Marzuki.Lempar.ke.Wakilnya 	38	41
+http://nasional.kompas.com/read/2011/04/27/12200228/Kisah.WC.Umum.dan.Wakil.Rakyat 	41	39
+http://nasional.kompas.com/read/2011/04/25/15082413/Ketua.DPR.Ragukan.Niat.Mundur.Arifinto 	42	41
+http://nasional.kompas.com/read/2011/04/25/12054014/Ruhut..Pengacara.DPR.untuk.Gedung.Baru 	39	41
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9dt2-sekjen-pan-soal-pertunangan-ibasaliya-pleasejangan-semua-ditarik-ke-ranah-politik 	23	
+http://www.antaranews.com/berita/255898/pan-minta-politisisasi-pertunangan-ibas-aliya-dihentikan 	23	
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk7g04-demokrat-dede-yusuf-tambah-stok-tokoh-partai 	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7ha4-nasional-demokrat-daftarkan-diri-ke-kemenkum-ham-jadi-parpol 	43	
+http://nasional.kompas.com/read/2011/04/26/16080440/Silakan.Saja.Buat.Partai.Baru..Asal 	43	
+http://nasional.kompas.com/read/2011/04/27/09255497/Ical.Nasdem.Bukan.Ancaman.bagi.Golkar 	43	
+http://www.antaranews.com/berita/255876/surya-paloh-tak-larang-pembentukan-partai-nasdem 	43	
+http://www.antaranews.com/berita/255846/partai-nasdem-daftar-ke-kemenkumham 	43	
+http://www.republika.co.id/berita/nasional/politik/11/04/26/lk8rly-daftar-jadi-parpol-nasional-demokrat-tidak-diketuai-surya-paloh 	43	
+http://nasional.kompas.com/read/2011/04/26/2024266/Sekjen.Nasdem.dan.Partai.Nasdem.Beda 	43	
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk7dqm-sekjen-nasdem-bantah-daftarkan-organisasi-jadi-parpol 	43	
+http://www.antaranews.com/berita/255713/narsdem-bantah-daftar-jadi-parpol 	43	
+http://nasional.kompas.com/read/2011/04/26/15293121/Sultan.Bantah.Nasdem.Jadi.Parpol 	43	
+http://www.antaranews.com/berita/255830/pkb-gus-dur-minta-menkumham-tak-verifikasi-pkb-muhaimin 	44	
+http://www.antaranews.com/berita/255822/lily-pkb-kembali-dapat-waktu-untuk-berdamai 	44	
+http://www.antaranews.com/berita/255804/lily-wahid-gus-choirie-bantah-pernyataan-pkb 	44	
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk7q2i-pkb-lily-wahid-dan-effendy-choirie-belum-lakukan-mediasi 	44	
+http://www.antaranews.com/berita/255747/lily-dan-effendy-belum-lakukan-mediasi 	44	
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk6w4a-ppp-menghangat-ahmad-muqowam-klaim-didukung-80-persen-pengurus-wilayah 	45	
+http://www.antaranews.com/berita/255892/suryadharma-mengaku-didukung-lagi-pimpin-ppp 	45	
+http://nasional.kompas.com/read/2011/04/25/14453490/Jimly.Saya.Siap.Jadi.Ketum.PPP..Asal 	45	
+http://nasional.kompas.com/read/2011/04/25/14260131/Nama.Jimly..Yusril..Adhyaksa.Mencuat 	45	
+http://nasional.kompas.com/read/2011/04/26/21311113/Saat.Dirias..Aliya.Degdegan 	23	
+http://nasional.kompas.com/read/2011/04/26/14580244/Acara.Ibas.Aliya.Bernuansa.Pesta.Kebun 	23	
+http://nasional.vivanews.com/news/read/216872-keluarga-sby-mulai-berkumpul-di-jcc 	23	
+http://nasional.vivanews.com/news/read/216863-jelang-lamar-aliya--jcc-dijaga-ketat 	23	
+http://nasional.kompas.com/read/2011/04/26/19132979/Pengamanan.di.Kediaman.Hatta.Diperketat 	23	
+http://nasional.kompas.com/read/2011/04/26/13230149/Soal.Lamaran..Hatta.Enggan.Banyak.Bicara 	23	
+http://nasional.kompas.com/read/2011/04/26/12421386/Kata.Bapak..Enggak.Boleh.Diliput 	23	
+http://nasional.kompas.com/read/2011/04/26/13021947/Lamaran.Ibas.Aliya.untuk.Keluarga.Saja 	23	
+http://nasional.kompas.com/read/2011/04/26/1207478/Hatta.Siapkan.Catering.untuk.500.Tamu 	23	
+http://nasional.kompas.com/read/2011/04/26/10473488/Petugas.Periksa.Pembawa.Paket 	23	
+http://nasional.kompas.com/read/2011/04/26/12552614/Ruhut.PAN.Gabung.ke.Demokrat.Saja 	23	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8yzb-ibasaliya-hasil-perjodohan-politik 	23	
+http://www.antaranews.com/berita/255827/ibas-aliya-bukan-perjodohan-politik 	23	
+http://nasional.kompas.com/read/2011/04/26/12093558/Politisi.Ibas.Aliya.Pasangan.Ideal 	23	
+http://nasional.kompas.com/read/2011/04/26/1147133/Dulu.Bertanding..Kini.Bersanding. 	23	
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lka1zl-hatta-rajasa-pinangan-kami-terima-pernikahan-pilih-waktu-terbaik 	23	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8wfl-pramono-pernikahan-ibasaliya-pernikahan-tak-biasa 	23	
+http://www.antaranews.com/berita/255826/pramono-selamati-ibas-aliya 	23	
+http://nasional.kompas.com/read/2011/04/26/18581078/Pramono.Semoga.Terbaik.bagi.Aliya.Ibas 	23	
+http://nasional.kompas.com/read/2011/04/26/18581078/Pramono.Semoga.Terbaik.Bagi.Aliya.Ibas 	23	
+http://nasional.vivanews.com/news/read/216699-lamaran-ibas--agenda-sby-berjalan-biasa 	23	
+http://nasional.vivanews.com/news/read/216515-hatta-benarkan-lamaran-ibas---aliya-besok 	23	
+http://www.republika.co.id/berita/nasional/politik/11/04/26/lk8t5a-lamaran-malam-sby-masih-kerja-sampe-sore 	23	
+http://www.republika.co.id/berita/nasional/politik/11/04/25/lk6yk3-ibas-melamar-aliya-esok 	23	
+http://nasional.kompas.com/read/2011/04/26/12345895/Istana.Agenda.Presiden.Berjalan.Normal 	23	
+http://nasional.kompas.com/read/2011/04/26/11580911/Pukul.19.00..Ibas.Aliya.Bertunangan 	23	
+http://nasional.kompas.com/read/2011/04/25/1056017/Esok..Ibas.Aliya.Bertunangan 	23	
+http://www.antaranews.com/berita/255855/polisi-temukan-13-karung-ganja-di-jakbar 	0	
+http://www.antaranews.com/berita/255776/tiga-intel-gadungan-ditangkap-polres-kutim 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9hj8-digagalkan-upaya-pembobolan-rekening-nasabah-bank-mandiri 	22	
+http://www.antaranews.com/berita/255869/nasabah-di-palu-diduga-ditipu-pegawai-bank-mandiri 	22	
+http://www.antaranews.com/berita/255860/nasabah-mengadu-ditipu-pegawai-bank 	22	
+http://www.antaranews.com/berita/255725/polisi-amankan-delapan-pelaku-perampokan-bank 	22	
+http://www.antaranews.com/berita/255707/polsek-tambun-buru-perampok-nasabah-bca 	22	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk6x41-loh-pak-polisi-malah-mintaminta-duit-ke-sopir-truk-lintas-sumatera 	0	
+http://www.antaranews.com/berita/255778/warga-berharap-perbaikan-jalan-utamakan-kualitas 	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7djh-polisi-tidak-ada-penangkapan-teroris-di-karawang 	14	1, 10
+http://www.antaranews.com/berita/255697/tidak-ada-penangkapan-teroris-di-karawang 	14	1, 10
+http://www.antaranews.com/berita/255944/komnas-ham-telusuri-bentrok-di-mesuji 	0	
+http://www.antaranews.com/berita/255740/banjir-bandang-rendam-puluhan-rumah-di-lahat 	0	
+http://www.antaranews.com/berita/255894/satu-orang-tewas-tertimbun-longsor-di-manado 	0	
+http://www.antaranews.com/berita/255730/tiga-ruang-kelas-sdn-babakan-loa-tertimbun 	0	
+http://www.antaranews.com/berita/255848/tabrakan-motor-satu-tewas 	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7ob3-penyerangan-rumah-warga-palu-propam-tahan-114-polisi 	13	
+http://www.antaranews.com/berita/255734/114-polisi-ditahan-terkait-penyerangan-palu 	13	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7p66-polisi-berhasil-tangkap-pemilik-5-bom-botol 	12	1
+http://www.antaranews.com/berita/255739/polisi-tangkap-lima-pemilik-bom-botol 	12	1
+http://www.antaranews.com/berita/255711/polisi-temukan-enam-bom-di-luwuk 	12	1
+http://www.antaranews.com/berita/255973/aburizal-bertemu-guru-ngaji-madura 	0	
+http://www.antaranews.com/berita/255735/korban-pendopo-roboh-16-orang-satu-tewas 	0	
+http://www.antaranews.com/berita/255759/tiga-orang-terluka-dalam-bentrokan-di-kelapa-gading 	0	
+http://www.antaranews.com/berita/255895/polisi-masih-bersiaga-di-lokasi-bentrokan 	29	
+http://www.antaranews.com/berita/255843/bentrok-di-samarinda-seorang-terluka 	29	
+http://www.antaranews.com/berita/255640/pejabat-kaltim-dilarang-berobat-ke-luar-negeri 	0	
+http://www.antaranews.com/berita/255685/ki-joko-bodo-jadi-tersangka 	0	
+http://nasional.vivanews.com/news/read/216808-ledakan-di-bali-akibat-tabung-gas-bocor 	0	1
+http://nasional.vivanews.com/news/read/216952-bali-libur-lokal--rayakan-pagerwesi 	0	
+http://www.antaranews.com/berita/255803/polda-bali-tetap-waspada-isu-bom-listrik 	1	9, 10
+http://nasional.vivanews.com/news/read/216656-diancam-bom-900-tabung-gas--bali--siaga-1 	1	9, 10
+http://nasional.vivanews.com/news/read/216801-gubernur-yang-dipepet-moge 	46	
+http://nasional.vivanews.com/news/read/216891--tak-hanya-gubernur--saya-juga-dipepet-moge- 	46	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8xr6-moge-jangan-arogan-kasihan-pengguna-jalan-lain 	46	
+http://www.antaranews.com/berita/255816/moge-jangan-arogan-kasihan-motor-kecil 	46	
+http://nasional.vivanews.com/news/read/216842-bali-tantang-imbi-tertibkan-moge-bodong 	46	
+http://nasional.vivanews.com/news/read/216766-polda-bali-gerak-cepat-tertibkan-moge 	46	
+http://www.antaranews.com/berita/255839/imbi-minta-maaf-pada-gubernur-bali 	46	
+http://nasional.vivanews.com/news/read/216653-dipepet-konvoi-moge--ini-sikap-gubernur-bali 	46	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7onk-respon-isu-pendirian-densus-99-gus-ipul-minta-gp-ansor-tak-langkahi-polisi 	11	15
+http://www.antaranews.com/berita/255746/demokrat-bentuk-tpf-kasus-pedofilia-jalaluddin 	0	
+http://www.antaranews.com/berita/255881/polisi-surabaya-belum-tetapkan-tersangka-raibnya-komodo 	0	
+http://nasional.vivanews.com/news/read/216750-cakar-suami--politikus-demokrat-diusut-polisi 	0	
+http://www.antaranews.com/berita/255924/pbnu--perlu-uu-antiterorisme-yang-lebih-tajam 	10	16, 1
+http://www.antaranews.com/berita/255923/pbnu--radikalisme-di-indonesia-sudah-lampu-merah 	16	15
+http://www.antaranews.com/berita/255909/pmii-tolak-ideologisasi-negara-islam 	15	16
+http://www.antaranews.com/berita/255710/jangan-curigai-kurikulum-pendidikan-islam 	16	15
+http://www.antaranews.com/berita/255794/kementerian-agama-redam-radikalisme-agama 	16	15
+http://www.antaranews.com/berita/255879/pemerintah-segera-kaji-pengajaran-agama 	16	15
+http://nasional.vivanews.com/news/read/216860-cegah-radikalisme--kemenag-pantau-guru-agama 	16	10, 15
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8x6c-seorang-remaja-gantung-diri-di-ruang-komentator-sepak-bola 	0	
+http://nasional.vivanews.com/news/read/216724-cegah-cuci-otak--uin-bangun-crisis-center 	15	
+http://nasional.vivanews.com/news/read/216663-di-uin-diy--ada-mahasiswa-kafirkan-dosen 	15	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk99s7-mahasiswa-korban-doktrinasi-nii-telah-pulang 	15	
+http://www.antaranews.com/berita/255883/mahasiswa-diduga-korban-nii-sudah-pulang 	15	
+http://nasional.vivanews.com/news/read/216994-jaksa-agung-tunggu-penyidikan-kasus-nii 	15	
+http://nasional.vivanews.com/news/read/216671-kapolda-jatim-akan-temui-korban-nii 	15	
+http://nasional.vivanews.com/news/read/216617-cuci-otak-mahasiswa--polisi-kejar-6-orang 	15	
+http://nasional.vivanews.com/news/read/216822-cegah-nii--polda-ntb-razia-kos-kosan 	15	
+http://nasional.vivanews.com/news/read/216523-teror-bom-ancam-empat-lokasi-di-kota-bima 	0	1
+http://www.antaranews.com/berita/255978/lukman-hakim-minta-intelijen-ungkap-nii 	15	
+http://nasional.vivanews.com/news/read/216815-mui-yogya--waspadai-ideologi-sesat-nii 	15	
+http://www.antaranews.com/berita/255841/pemerintah-diharapkan-tegas-atasi-nii 	15	
+http://nasional.kompas.com/read/2011/04/26/14041748/Penanganan.Lamban..NII.Berkembang 	15	
+http://www.antaranews.com/berita/255980/polda-pantau-kantong-nii-di-jakarta 	15	
+http://nasional.vivanews.com/news/read/216957-waspadalah----ini-kantong-nii-di-jakarta 	15	
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkao7i-nii-beraksi-di-pinggiran-jakarta-polda-sebar-intel 	15	
+http://nasional.kompas.com/read/2011/04/27/12040746/Polisi.Sudah.Petakan.Kantong.kantong.NII 	15	
+http://www.antaranews.com/berita/255837/mahasiswa-itb-paling-banyak-direkrut-oleh-nii 	15	
+http://nasional.vivanews.com/news/read/216885--susupi-kampus--nii-bisa-tentukan-beasiswa- 	15	
+http://nasional.vivanews.com/news/read/216735-korban--n11-kode-sebutan-nii 	15	
+http://nasional.vivanews.com/news/read/216899-membelot-dari-nii--ancamannya-dibunuh 	15	
+http://nasional.vivanews.com/news/read/216895-ini-beda-nii-asli-dan-nii-gadungan 	15	
+http://nasional.vivanews.com/news/read/216873-nii--yang-pakai-hipnotis-itu-gadungan 	15	
+http://nasional.vivanews.com/news/read/216871-apa-itu-negara-islam-indonesia- 	15	
+http://nasional.vivanews.com/news/read/216676--jadi-sorotan--nii-tiarap--siaga-i- 	15	
+http://nasional.kompas.com/read/2011/04/26/21310737/NII.Jangan.Hanya.Dibebankan.pada.Polri 	15	
+http://nasional.kompas.com/read/2011/04/26/21310737/NII.Jangan.Hanya.Dibebankan.kepada.Polri 	15	
+http://nasional.kompas.com/read/2011/04/25/21122678/Polri.Telusuri.Sepak.Terjang.NII 	15	
+http://nasional.vivanews.com/news/read/216967-korban-nii--jihad-hingga-ajal 	15	
+http://nasional.vivanews.com/news/read/216978-kisah-mahasiswa-brawijaya-jadi-target-nii 	15	
+http://nasional.kompas.com/read/2011/04/27/11523481/Ajaran.NII.Menghapus.Dosa.dengan.Uang 	15	
+http://nasional.kompas.com/read/2011/04/27/10445486/Dari.Diskusi.Seminar.hingga.Dibaiat 	15	
+http://nasional.kompas.com/read/2011/04/25/14045668/NII.Menyuruh.Saya.Mencuri 	15	
+http://nasional.kompas.com/read/2011/04/25/13554019/Saya.Bertemu.Kepala.Negara.NII 	15	
+http://nasional.kompas.com/read/2011/04/25/13434881/Beginilah.Cara.NII.Merekrut.Saya. 	15	
+http://nasional.vivanews.com/news/read/216499-teror-baru--jihad--individu 	3	4, 1, 10
+http://nasional.vivanews.com/news/read/216487-ba-asyir--m-syarif-bukan-pengawal-saya 	4	3, 1, 10
+http://www.antaranews.com/berita/255840/polri-tetapkan-tiga-tersangka-bom-cirebon 	3	1, 10
+http://nasional.vivanews.com/news/read/216798-ada-dua-tersangka-baru-bom-bunuh-diri-cirebon 	3	1, 10
+http://nasional.kompas.com/read/2011/04/27/10123941/Adik.Syarif.Tahu.Aksi.Bom.Bunuh.Diri 	3	1, 10
+http://nasional.kompas.com/read/2011/04/25/21244668/Adik.M.Syarif.Tersangka.Bom.Cirebon 	3	1, 10
+http://nasional.kompas.com/read/2011/04/25/18304988/Baasyir.Hadapi..Jangan.Sembunyi 	4	11
+http://nasional.vivanews.com/news/read/216626-ba-asyir--dari-soekarno-hingga-sby--kafir- 	4	1, 8, 5, 9, 10, 11
+http://nasional.vivanews.com/news/read/216485-ba-asyir--bom-serpong-itu-tak-bisa-dibenarkan 	4	5, 10, 8, 1, 11
+http://nasional.kompas.com/read/2011/04/25/15334125/Baasyir.Perampokan.CIMB.Bukan.Fai 	4	11
+http://nasional.kompas.com/read/2011/04/25/17261644/Baasyir.Kirim.Surat.ke.Empat.Pihak 	4	11
+http://nasional.kompas.com/read/2011/04/25/1433446/Baasyir.Sebut.Soekarno.SBY.Thogut 	4	15
+http://nasional.vivanews.com/news/read/216563-ba-asyir--tak-ada-dana-untuk-aceh 	4	11
+http://nasional.vivanews.com/news/read/216635-jaksa--keterangan-ba-asyir-tidak-konsisten 	4	11
+http://nasional.kompas.com/read/2011/04/25/11481411/Baasyir.Bantah.Bertemu.Dulmatin 	4	
+http://nasional.vivanews.com/news/read/216507-ba-asyir-tak-setujui-latihan-senjata-di-aceh 	4	11
+http://nasional.kompas.com/read/2011/04/25/13331396/Baasyir.Bantah.Biayai.Pelatihan.Rp1.M 	4	11
+http://nasional.kompas.com/read/2011/04/25/13331396/Baasyir.Bantah.Biayai.Pelatihan.Rp.1.M 	4	11
+http://nasional.kompas.com/read/2011/04/25/10475462/Baasyir.Tahu.Rencana.Pelatihan.di.Aceh 	4	11
+http://nasional.vivanews.com/news/read/216925-buku-nii-di-rumah-pepi-fernando--ada-kaitan- 	8	1, 10, 9, 5, 15
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk997h-polisi-sita-25-buku-dan-satu-kliping-artikel-tentang-jihad-di-rumah-pepi-fernando 	8	1, 10, 9
+http://nasional.vivanews.com/news/read/216843-judul-judul-buku-yang-dibaca-pepi-fernando 	8	1, 10, 9
+http://nasional.kompas.com/read/2011/04/25/1241262/Buku.Sejarah.Lurus.Belum.Bisa.Terbit 	0	
+http://nasional.vivanews.com/news/read/216624-istri-otak-bom--pepi-kerja-di-bnn-sejak-2006 	8	1, 10, 9, 5
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk98sr-ingin-tayangan-eksklusif-imam-malah-terseret-kasus-bom-yang-akan-diliputnya 	6	1, 8, 10, 5, 9
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7n74-kuasa-hukum-pastikan-kebenaran-penangkapan-imam-firdaus 	6	1, 10, 5
+http://nasional.kompas.com/read/2011/04/25/18153116/Tempat.Penahanan.IF.Masih.Dirahasiakan 	6	1, 10
+http://nasional.vivanews.com/news/read/216633-keluarga-cari-tahu-nasib-kamerawan-global-tv 	6	1, 8, 10, 5, 9
+http://nasional.kompas.com/read/2011/04/25/17370025/Resah..Keluarga.Pertanyakan.Keadaan.IF 	6	1, 8, 10, 5, 9
+http://nasional.kompas.com/read/2011/04/25/13482614/Kuasa.Hukum.IF.Akan.Datangi.Mabes.Polri 	6	1, 8, 10, 5
+http://nasional.vivanews.com/news/read/216536-penjinak-urai-bom-dari-rumah-mertua-pepi 	8	1, 6, 5, 10
+http://nasional.kompas.com/read/2011/04/25/13103497/Polri.Bergabung.karena.Faktor.Ekonomi 	10	1, 6, 8, 5, 9
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9ket-bom-di-cawang-bertujuan-hancurkan-jembatan-fly-over 	7	1, 5
+http://nasional.vivanews.com/news/read/216892-pepi-letakkan-bom-di-cawang-agustus-2010 	7	1, 10
+http://nasional.vivanews.com/news/read/216868-polisi-sisir-bom--cawang-macet-total 	7	1, 8, 5, 9, 10
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9czi-barang-bukti-bom 	1	8, 10
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9c00-polri-bom-yang-disita-dapat-menjadi-puluhan-bom 	1	8, 10, 5, 9
+http://nasional.vivanews.com/news/read/216692-jejak-pepi-fernando-di-dunia-infotainment 	8	1, 10, 9, 5
+http://nasional.vivanews.com/news/read/216937-3-kg-bubuk-mesiu-ditemukan-di-rumah-pepi 	8	1, 10, 9, 5
+http://nasional.vivanews.com/news/read/216934-pepi-fernando-tanam-bom-di-aceh 	8	1, 10, 9, 5
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7elt-polri-motif-rencana-siaran-ledakan-bom-murni-bisnis 	6	8, 10, 5, 1
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7826-pepi-fernando-berbisnis-batu-giok-di-aceh 	8	9
+http://nasional.kompas.com/read/2011/04/26/01075650/Pepi.Fernando.Bisnis.Batu.Giok.di.Aceh 	8	10, 1, 5
+http://nasional.vivanews.com/news/read/216800-tersangka-j-disiapkan-jadi--pengantin- 	10	9, 5, 1
+http://nasional.kompas.com/read/2011/04/26/20405558/Jokau..Pengantin.Selanjutnya 	10	9, 5, 1
+http://www.antaranews.com/berita/255706/jumlah-tersangka-terorisme-mungkin-bertambah 	10	9, 5, 1
+http://www.antaranews.com/berita/255664/densus-masih-periksa-20-tersangka-terorisme 	10	9, 5, 1
+http://nasional.kompas.com/read/2011/04/25/15205395/Polri.Punya.Waktu.Dua.Hari.Lagi 	10	9, 5, 1
+http://nasional.kompas.com/read/2011/04/25/19580430/Polisi.Periksa.Intensif.Istri.Pepi 	8	10, 1, 5
+http://nasional.vivanews.com/news/read/216603-istri-pepi-kirimkan-bom-ke-kantor-bnn- 	8	10, 1, 5
+http://nasional.vivanews.com/news/read/216812-4-dari-20-tersangka-mahir-rakit-bom 	10	9, 5, 1
+http://nasional.vivanews.com/news/read/216510-mabes-polri-periksa-istri-pepi-fernando 	8	1, 9, 5, 10
+http://www.antaranews.com/berita/255853/empat-tersangka-teror-mahir-rakit-bom 	5	10, 9, 1
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk77he-polri-pepi-mahir-rakit-bom 	8	10, 1, 5
+http://www.antaranews.com/berita/255681/pepi-mahir-merakit-bom 	8	10, 1, 5
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk6zdu-istri-pepi-diperiksa-densus-88 	8	10, 1, 5
+http://www.antaranews.com/berita/255660/densus-88-periksa-istri-pepi 	8	10, 1, 5
+http://nasional.kompas.com/read/2011/04/26/15214666/Empat.Tersangka.Bisa.Rakit.Bom.Sendiri 	10	9, 5, 1
+http://nasional.kompas.com/read/2011/04/25/12382459/Belajar.Lewat.Buku..Pepi.Mahir.Rakit.Bom 	8	10, 1, 5
+http://nasional.vivanews.com/news/read/216698-tpm-resmi-pengacara-keluarga-tsk-bom-buku 	9	1, 10
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7162-12-tersangka-bom-buku-dibawa-ke-rutan-polda 	9	1, 10
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9kl6-polda-jaya-sisir-keberadaan-bom-di-rawamangun 	7	1, 9, 5
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9iy9-cari-bom-yang-diletakkan-agustus-2011-polisi-sisir-cawang 	7	1, 9, 5
+http://www.antaranews.com/berita/255668/12-terduga-teroris-ditahan-di-polda-jaya 	10	1, 9, 5
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk754f-12-tersangka-teroris-dititipkan-di-rutan-polda-metro-jaya 	10	1, 9, 5
+http://nasional.kompas.com/read/2011/04/25/18472891/Kamis..Polri.Jelaskan.Status.Penahanan 	10	1, 9, 5
+http://nasional.vivanews.com/news/read/216915-daftar-panjang-calon--pengantin- 	10	1, 9, 5
+http://www.antaranews.com/berita/255928/bahan-peledak-ditemukan-di-rumah-kontrakan-di-aceh 	11	10, 1
+http://www.antaranews.com/berita/255896/polisi-sisir-tempat-menginap-tersangka-teroris 	11	10, 1
+http://nasional.kompas.com/read/2011/04/25/09200958/Terorisme.Jalan.Baru.Menghadapi.Keputusasaan 	10	9, 5, 1, 3
+http://nasional.kompas.com/read/2011/04/25/11573032/Presiden.Bahas.Penanganan.Lumpur.Lapindo	54	
+http://nasional.kompas.com/read/2011/04/25/17051368/Nasdem.Daftar.Jadi.Parpol	43	
+http://nasional.kompas.com/read/2011/04/26/13055090/Pertunangan.Jangan.Dikaitkan.Politik	23	
+http://nasional.vivanews.com/news/read/216539-kpk-cari-penerima-cek-selain-sesmenpora	27	
+http://nasional.vivanews.com/news/read/216650-adhyaksa-dault-duga-wafid-dijebak	27	
+http://nasional.vivanews.com/news/read/216669-panda-nababan-kembali-somasi-kpk	0	
+http://nasional.vivanews.com/news/read/216689-kemensos--makam-letkol-heru-urusan-garnisun	28	
+http://nasional.vivanews.com/news/read/216714-1-000-tni-polisi-jaga-sidang-kasus-cikeusik	31	
+http://nasional.vivanews.com/news/read/216715-bali-siaga-i--kapolda-imbau-waspada	0	2, 1, 10
+http://nasional.vivanews.com/news/read/216723-anak-dilamar--hatta-tunda-bertemu-dubes-as	23	
+http://nasional.vivanews.com/news/read/216825-polri-gelar-barang-bukti-teror-bom	1	10, 9, 5
+http://www.antaranews.com/berita/255661/istana-tingkatkan-kewaspadaan	1	10
+http://www.antaranews.com/berita/255662/prodi-arab-ui-akan-selenggarakan-reuni-akbar	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk77wv-penyebab-masih-misterius-33-orang-dilaporkan-hilang-sejak-januari-2011	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/26/lk99tm-kpk-kembalikan-barangbarang-pribadi-wafid-muharam	27	
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkah7r-meski-andi-malarangeng-siap-kpk-belum-akan-memeriksanya	27	
+http://www.republika.co.id/berita/nasional/hukum/11/04/27/lkamuz-andhika-tahu-aliran-dana-ke-rekeningnya-dari-kejahatan-malinda	20	19, 22
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7986-polri-motif-rencana-siaran-ledakan-bom-murni-bisnis	8	1, 5, 6, 10
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7doq-penyuap-seskempora-salah-satu-kontraktor-gedung-baru-dpr	27	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7otz-mentok-pembahasan-kerjasama-pertahanan-indonesiasingapura	0	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7rhi-seorang-dari-87-wanita-hamil-yang-dipulangkan-dari-jeddah-melahirkan-di-kapal-motor	36	37
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk8vru-jangan-kaitkan-besanan-sbyhatta-dengan-politik	23	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9etc-alhamdulillah2-ribu-wni-terlantar-di-saudi-pulang-hari-ini	36	37
+http://www.republika.co.id/berita/nasional/umum/11/04/27/lkae5x-hari-ini-polisi-ungkap-identitas-dan-status-pelaku-bom-buku	9	1, 10, 8, 9
+http://nasional.vivanews.com/news/read/216793-ledakkan-keras-di-bali--satu-orang-luka	0	
+http://nasional.vivanews.com/news/read/216927-suami-siri-malinda-andhika-gumilang-dibekuk-	20	19, 22
+http://nasional.vivanews.com/news/read/216928-wagub-jatim--wacana-pendirian-nii-kadaluarsa	15	
+http://www.antaranews.com/berita/255745/111-siswa-di-bekasi-tidak-ikut-un	62	
+http://www.antaranews.com/berita/255893/polres-bogor-tangkap-pelaku-pembobol-mesin-atm	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7nlf-usai-sidang-tahanan-kejari-cibinong-gergaji-teralis-toilet-dan-kabur	0	
+http://www.republika.co.id/berita/nasional/hukum/11/04/25/lk7oyw-waduhusai-disidang-di-bogor-2-tahanan-kabur	0	
+http://www.republika.co.id/berita/nasional/politik/11/04/27/lkaoi7-sembilan-pelukis-buang-hajat-di-luar-pagar-gedung-dpr	41	
+http://www.republika.co.id/berita/nasional/umum/11/04/26/lk9jgq-menneg-bumn-pastikan-pt-elnusa-stabil	17	22
+http://nasional.kompas.com/read/2011/04/25/17104794/Nasdem.Bantah.Daftarkan.Diri.Jadi.Parpol	43	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7h3i-pemerintah-talangi-sementara-ganti-rugi-lumpur-lapindo-rp-11-triliun	54	
+http://www.republika.co.id/berita/nasional/umum/11/04/25/lk7i6c-koleksi-budaya-cina-dipamerkan-di-museum-nasional	0	

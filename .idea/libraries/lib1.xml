@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/lucene-core-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/appframework-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swing-worker-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/ipostagger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/nutch-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
